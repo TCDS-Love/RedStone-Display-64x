@@ -2,7 +2,7 @@
     "ambientocclusion": false,
     "textures": {
         "particle": "block/redstone_dust_dot",
-        "line": "block/redstone_dust_p00"
+        "line": "block/redstone_dust_power/redstone_dust_00"
     },
     "elements": [
         {   "from": [ 12, 0.30, 2 ],
